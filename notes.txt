@@ -1,0 +1,18 @@
+                    ?? TEMPLATE ENGINE 👍 👎
+ 
+  1.> teplate engine use for => dynamic data fetch and get:
+
+  2.> ejs, pug, and handelbers all are like =>html page but not
+    html its more powerfull bexause there we can use dynamic data read .
+
+  ??hbs
+  3.> hbs related to => Mustache template engine.
+
+  ??cmd
+  4.> $cmd👎 => npm install hbs
+
+  ??views
+  *> views : is the directory where the template files are located.
+    app.set('views','./views')
+    This defsult to the views directory in the application root directory.
+  
